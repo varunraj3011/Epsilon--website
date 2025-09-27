@@ -1,25 +1,23 @@
-EEE Symposium Website
-This is a symposium promotion website developed for our EEE Department to showcase and promote the events and games conducted as part of the symposium.
-It provides all the event details along with registration links for participants.
+# 🏛️ Epsilon Symposium Website
 
-👥 Team
-Co-developed by **me and my friend ,Varun raj **.
-🎯 Purpose
-To officially announce that our EEE Department is conducting a Symposium.
-To promote and provide details about all the events and activities.
-To make online registrations easier through direct links.
-✨ Features
-Informative homepage with symposium details.
-List of events and games conducted.
-Direct registration links for each event.
-Simple and user-friendly design.
-🛠️ Tech Stack
-HTML, CSS, JavaScript (Frontend)
-Responsive design for better accessibility
-🚀 How to Run
-Clone the repository:
-Navigate to the project folder.
+A responsive website built for the **Epsilon Symposium**, showcasing event details, schedules, speakers, and registration information.  
+Designed to provide attendees with a seamless experience to explore and participate in the symposium.
 
-Open index.html in your browser. git clone
+---
 
-Note: This project was mainly created for departmental use and promotional purposes
+## 🚀 Features
+- Home page with symposium overview  
+- Event schedule and agenda  
+- Speaker profiles  
+- Registration form / contact section  
+- Responsive design for mobile and desktop  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript 
+- **Styling:**  CSS  
+- **Hosting:** GitHub Pages / Netlify  
+
+---
+
