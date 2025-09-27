@@ -4,6 +4,18 @@ A responsive website built for the **Epsilon Symposium**, showcasing event detai
 Designed to provide attendees with a seamless experience to explore and participate in the symposium.
 
 ---
+## 👥 Team
+- Co-developed by **me and my friend ,Naveen B **.
+
+---
+
+## 🎯 Purpose
+- To officially announce that our **EEE Department is conducting a Symposium**.  
+- To promote and provide details about all the events and activities.  
+- To make **online registrations** easier through direct links.
+
+---
+
 
 ## 🚀 Features
 - Home page with symposium overview  
